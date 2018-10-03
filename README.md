@@ -1,1 +1,1 @@
-# ubu
+Bash scripts
